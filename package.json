@@ -1,21 +1,23 @@
 {
-  "name": "tik_self_bot",
-  "version": "0.0.1",
-  "description": "A bot for Tik to program when he's bored",
-  "author": "TikhonK",
-  "engines": {
-    "node": "6.9.1"
-  },
-  "license": "MIT",
-  "private": true,
+  "name": "website",
+  "version": "1.0.0",
+  "description": "A Test Website",
+  "main": "index.js",
   "dependencies": {
-    "express": "4.6.1",
-    "google-translate-api": "^2.3.0",
-    "node-lame": "^1.0.4"
+    "node-static": "^0.7.10"
   },
-  "main": "bot.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mh5001/website.git"
+  },
+  "author": "mh5000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mh5001/website/issues"
+  },
+  "homepage": "https://github.com/mh5001/website#readme"
 }
