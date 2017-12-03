@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/mh5001/website/issues"
   },
-  "homepage": "https://github.com/mh5001/website#readme"
+  "homepage": "https://github.com/mh5001/website#readme",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
